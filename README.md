@@ -33,7 +33,7 @@ Visit the [Suraksha Parental Guide](https://suraksh.it) for detailed instruction
 
 ## Support and Feedback
 
-If you have any questions, encounter issues, or would like to provide feedback, please reach out through our [support page](https://suraksha-suppor).
+If you have any questions, encounter issues, or would like to provide feedback, please reach out through our [support page](https://suraksh.it/support).
 
 ## Security and Privacy
 
